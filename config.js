@@ -25,8 +25,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //----------------------------------------------------------------------------
 
-global.mods = ['24105114159'] 
-global.prems = ['24105114159']
+global.mods = ['24160338758'] 
+global.prems = ['24160338758']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -60,19 +60,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳'
+global.botname = '𝚀𝚄𝙴𝙴𝙽 kARLA 𝙼𝙳'
 global.premium = 'true'
-global.packname = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' 
-global.author = '𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙽𝙰 𝙼𝙳' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/lawliet.kfx\n' 
-global.dygp = 'https://chat.whatsapp.com/GpsTju4MUAbJmmZhHU8zAR'
-global.fgsc = 'https://github.com/toge012345/QUEEN-ANNA' 
-global.fgyt = 'https://youtube.com/@kenzo3146'
-global.fgpyp = 'https://youtube.com/@kenzo3146'
-global.fglog = 'ANNA.jpg' 
+global.packname = 'PAPA IGWE' 
+global.author = 'QUEEN KARLA 𝙼𝙳' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/papa igwe tech\n' 
+global.dygp = 'https://chat.whatsapp.com/C6ivOH7HeeR5URsOcTeGhE'
+global.fgsc = 'https://github.com/Papaigwe1234/QUEEN-KARLA' 
+global.fgyt = 'https://youtube.com/@igwe._.'
+global.fgpyp = 'https://youtube.com/@igwe'
+global.fglog = 'KARLA.jpg' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./Assets/ANNA.jpg')
+global.imagen1 = fs.readFileSync('./Assets/KARLA.jpg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
