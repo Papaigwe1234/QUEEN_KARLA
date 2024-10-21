@@ -1,10 +1,10 @@
 {
-  "name": "QUEEN-ANNA",
+  "name": "QUEEN-KARLA",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/toge012345/QUEEN-ANNA",
+  "repository": "https://github.com/Papaigwe1234/QUEEN-KARLA",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -20,7 +20,7 @@
     "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "24105114159;𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸"
+      "value": "24160338758;PAPA IGWE"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
